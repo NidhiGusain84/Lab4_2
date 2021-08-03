@@ -1,0 +1,13 @@
+C:\Lab4_2\Lab4_2_ObjectPractice\Lab4_2\bin\Debug\netcoreapp3.1\Lab4_2.exe
+C:\Lab4_2\Lab4_2_ObjectPractice\Lab4_2\bin\Debug\netcoreapp3.1\Lab4_2.deps.json
+C:\Lab4_2\Lab4_2_ObjectPractice\Lab4_2\bin\Debug\netcoreapp3.1\Lab4_2.runtimeconfig.json
+C:\Lab4_2\Lab4_2_ObjectPractice\Lab4_2\bin\Debug\netcoreapp3.1\Lab4_2.runtimeconfig.dev.json
+C:\Lab4_2\Lab4_2_ObjectPractice\Lab4_2\bin\Debug\netcoreapp3.1\Lab4_2.dll
+C:\Lab4_2\Lab4_2_ObjectPractice\Lab4_2\bin\Debug\netcoreapp3.1\Lab4_2.pdb
+C:\Lab4_2\Lab4_2_ObjectPractice\Lab4_2\obj\Debug\netcoreapp3.1\Lab4_2.csprojAssemblyReference.cache
+C:\Lab4_2\Lab4_2_ObjectPractice\Lab4_2\obj\Debug\netcoreapp3.1\Lab4_2.AssemblyInfoInputs.cache
+C:\Lab4_2\Lab4_2_ObjectPractice\Lab4_2\obj\Debug\netcoreapp3.1\Lab4_2.AssemblyInfo.cs
+C:\Lab4_2\Lab4_2_ObjectPractice\Lab4_2\obj\Debug\netcoreapp3.1\Lab4_2.csproj.CoreCompileInputs.cache
+C:\Lab4_2\Lab4_2_ObjectPractice\Lab4_2\obj\Debug\netcoreapp3.1\Lab4_2.dll
+C:\Lab4_2\Lab4_2_ObjectPractice\Lab4_2\obj\Debug\netcoreapp3.1\Lab4_2.pdb
+C:\Lab4_2\Lab4_2_ObjectPractice\Lab4_2\obj\Debug\netcoreapp3.1\Lab4_2.genruntimeconfig.cache
